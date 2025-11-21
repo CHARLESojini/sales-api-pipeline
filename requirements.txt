@@ -1,0 +1,13 @@
+# Core dependencies - updated for Python 3.13 compatibility
+requests==2.31.0
+pandas==2.2.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+
+# API framework
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+
+# Scheduling
+schedule==1.2.0
